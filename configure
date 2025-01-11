@@ -11415,7 +11415,7 @@ printf %s "checking which log-profile will be used... " >&6; }
     DEFAULT_LOG_PROFILE="verbose" ;; #(
   [Ff][Uu][Ll][Ll]) :
     DEFAULT_LOG_PROFILE="full" ;; #(
-  [De][Ee][Bb][Uu][Gg]) :
+  [Dd][Ee][Bb][Uu][Gg]) :
     DEFAULT_LOG_PROFILE="debug" ;; #(
   [Ss][Cc][Hh][Ww][Aa][Ff][Ee][Ll]) :
     DEFAULT_LOG_PROFILE="schwafel" ;; #(
